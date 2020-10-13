@@ -1,0 +1,150 @@
+.jumbotron {
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	background-color: transparent;
+	display: flex;
+	align-items: center;
+}
+
+.container {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	background-color: transparent !important;
+}
+
+.h1 {
+	font-size: 32px;
+	margin-right: 100px;
+}
+
+.h2 {
+	font-size: 28px;
+	margin: 50px;
+}
+
+p {
+	margin-top: 25px;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	background-color: rgb(10, 10, 100);
+	opacity: 0.75;
+	padding: 20px;
+}
+
+.images {
+	width: 250px;
+	height: auto;
+	border: 4px solid rgb(128, 72, 128);
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
+	box-shadow: 6px 8px rgb(10, 10, 100);
+}
+
+.li {
+	padding: 15px;
+	color: white;
+}
+
+.navbar-brand {
+	display: flex;
+	font-size: 32px;
+	font-weight: bold;
+	background-color: rgb(128, 72, 128) !important;
+	padding-left: 75px;
+}
+
+.navbar {
+	justify-content: right;
+	font-size: 24px;
+	font-weight: bold;
+	background-color: rgb(128, 72, 128) !important;
+}
+
+h3 {
+	font-size: 36px;
+	font-style: italic;
+	margin-top: 10px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+	color: white;
+	text-align: center;
+}
+
+.button {
+	justify-items: right;
+	margin-right: 0px;
+}
+
+.words {
+	font-size: 24px;
+	font-style: italic;
+	padding: 10px;
+	position: relative;
+	text-align: center;
+	color: white;
+}
+
+.gallery-container {
+	display: flexbox;
+	flex-direction: row;
+	justify-content: center;
+	text-align: center;
+	justify-content: stretch;
+	align-items: center;
+}
+
+.contact-container {
+	background-color: rgb(10, 10, 100);
+	opacity: 0.7;
+	margin: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+#background {
+/*	background-image: url('../assets/bluebackground.jpg');*/
+	background-size: cover;
+}
+
+#indexImage {
+	/*	background-image: url('../assets/bluebackground.jpg');*/
+	background-size: cover;
+}
+
+#contactImage {
+	/*	background-image: url('../assets/bluebackground.jpg');*/
+	background-size: cover;
+}
+
+#icons {
+	font-size: 75px;
+	align-items: center;
+}
+
+.fab {
+	color: white;
+}
+
+#icons a:hover {
+	background-color: lightblue;
+	color: white;
+}
+
+#email a:hover {
+	background-color: lightblue;
+	color: white;
+}
+
+.row {
+	justify-content: center;
+	margin-top: 35px;
+}
+
+.card {
+	text-align: center;
+}

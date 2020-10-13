@@ -8,9 +8,9 @@ function Header() {
 		<>
 					<nav className="navbar navbar-expand-lg navbar-dark bg-light">
 					<div className="navbar-brand mb-1 h1"> Karyn Clarke </div>
-					{/* <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 						<span class="navbar-toggler-icon"></span>
-					</button> */}
+					</button>
 					<div className="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul className="nav navbar-nav navbar-right">
 							<li className="nav-item">
