@@ -23,9 +23,9 @@ function Project(props) {
 			link: 'https://karynclarke.github.io/Workday-Scheduler/',
 			linkText: 'Weather Dashboard'
 		},
-		
+
 		{
-			imgSrc: './assets/Screenshot(115).png',
+			imgSrc: './assets/NoteTakerScreenshot.png',
 			imgAlt: 'Note Taker',
 			title: 'Note Taker',
 			link: 'https://serene-taiga-27292.herokuapp.com/',
